@@ -14,12 +14,12 @@
     color: gray;
   }
 </style>
+
 <figure>
 <img src="./intro_imgs/Dupont_Line_Hell.png" alt="杜邦线地狱！" width="300" height="200">
 <figcaption>杜邦线地狱！</figcaption>
 </figure>
 
-</style>
 <figure>
 <img src="./intro_imgs/Fast_Lio_Points.png" alt="扫扫实验室" width="300" height="200">
 <figcaption>扫扫实验室😋😋</figcaption>
