@@ -1,35 +1,31 @@
 # Huangney 
 我的Github_ID来源于我大一时写的一个聊天机器人（已开源），其使用`GRU`作为`Encoder`和`Decoder`的神经层，并带有注意力层。我使用了 **我和我朋友的聊天记录** 对其进行训练，最后这个机器人~~口吐芬芳，小嘴甜得像黄鹂~~，我便将其命名为`Huangney`
 
-<style>
-  figure {
-    text-align: center;
-  }
-  img {
-    width: 300px;
-    height: 200px;
-  }
-  figcaption {
-    font-style: italic;
-    color: gray;
-  }
-</style>
 
-<figure>
-<img src="./intro_imgs/Dupont_Line_Hell.png" alt="杜邦线地狱！" width="300" height="200">
-<figcaption>杜邦线地狱！</figcaption>
-</figure>
 
-<figure>
-<img src="./intro_imgs/Fast_Lio_Points.png" alt="扫扫实验室" width="300" height="200">
-<figcaption>扫扫实验室😋😋</figcaption>
-</figure>
 
 
 ## 👀 关于我
 我目前是一名自动化专业的大三学生，我热衷于探索新技术，不断挑战自我，努力提升自己的专业技能。
 
 欢迎光临我的博客😄：[**AT-StarCorner**](https://www.atstarcorner.net/)
+
+<table>
+    <tr>
+        <td>
+            <figure style="text-align: center;">
+                <img src="./intro_imgs/Dupont_Line_Hell.png" alt="杜邦线地狱！" width="200">
+                <figcaption>杜邦线地狱！</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure style="text-align: center;">
+                <img src="./intro_imgs/Fast_Lio_Points.png" alt="扫扫实验室" width="200">
+                <figcaption>扫扫实验室😋😋</figcaption>
+            </figure>
+        </td>
+    </tr>
+</table>
 
 
 ## 🤔 技术栈
